@@ -1,0 +1,23 @@
+<div class="wrapper" style="width: 100%;max-width: 550px;min-height: 100vh;padding: 1.5em 2em .5em 2em; margin: 0 auto;font-size:14px;color:#ffffff;background-color: #1050a1;box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);">
+  <h1 style="font-family: 'Arial Black', Gadget, sans-serif;text-align: center;font-size: 1.2em;padding: .2em 1em .5em 1em;color: #ffffff;"><span style="padding: .2em 0;border: 3px dashed #f9cf49;border-left: 0;border-right: 0;">REFERRAL
+      POLICY</span></h1>
+  <p style="font-size: 1em;font-weight: 100;">Ever wondered if you could win a <strong>4 days, 3 nights</strong> holiday every week,<br>
+    with your +1 at an exotic location, sponsored by your company?<br>
+    How cool is that? Presenting, the new Haptik referral policy.</p>
+  <strong>The Rules:</strong>
+  <ul style="padding-inline-start: 20px;font-size: 1em;">
+    <li style="color: #f9cf49;list-style-type: disc;"><span style="color: #ffffff;">Every month, a specific destination will be on offer.</span></li>
+    <li style="color: #f9cf49;list-style-type: disc;"><span style="color: #ffffff;">Every week, a new eligible role will be shared.</span></li>
+    <li style="color: #f9cf49;list-style-type: disc;"><span style="color: #ffffff;">If an employee refers someone for the ‘Role of the Week’, and that person
+        is successfully hired, then the employee wins the trip to the
+        <strong>‘Destination of the Month’</strong>.</span></li>
+    <li style="color: #f9cf49;list-style-type: disc;"><span style="color: #ffffff;"><strong>Role of the week</strong> for the week of August 19 is UI/UX Designer</span></li>
+  </ul>
+  <p style="font-size: 1em;font-weight: 100;"><strong>Note:</strong> If you have any queries about the policy, please get in touch with
+    the HR Team.</p>
+  <p style="font-size: 1em;font-weight: 100;">And now, presenting the very first <strong>DESTINATION OF THE MONTH</strong></p>
+  <img src="https://haptik-website-images.haptik.ai/assets/img/referral/Artboard+4.png" style="display: block;width: 60%;height: 50px;margin: 0 auto;">
+  <p style="font-size: 1em;font-weight: 100;">So roll up your sleeves, start referring, help Haptik grow, and then...<br>
+    enjoy your vacay!</p>
+  <img src="https://haptik-website-images.haptik.ai/assets/img/referral/Artboard+5.png" style="width: 100%;">
+</div>
